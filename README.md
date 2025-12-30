@@ -1,28 +1,55 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sahu</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsahu8818&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsahu8818" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsahu8818" alt="pranjalsahu8818" /></a> </p>
-
-- 🔭 I’m currently working on **SoluTek – IT Services Website**
-
-- 🌱 I’m currently learning **Frontend: HTML, CSS, JavaScript, Bootstrap, React.js - Backend: Node.js, Express.js - Database: MongoDB (learning stage), basics of SQL - Tools: Git, GitHub, VS Code - Deployment: Render, Netlify, and exploring basics of AWS**
-
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on full-stack web development projects — contributing to the frontend and learning backend technologies like Node.js and Express.js along the way.**
-
-- 💬 Ask me about **Frontend development (HTML, CSS, JavaScript) - Responsive website design - Git & GitHub basics - Hosting websites on Netlify and Render - My current projects or portfolio**
-
-- 📫 How to reach me **Email: Pranjalsahu8818@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;ML-Driven+Web+Applications;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:Pranjalsahu8818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Pranjalsahu8818%40gmail.com-0E75B6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pranjalsahu8818">
+    <img src="https://img.shields.io/github/followers/pranjalsahu8818?label=Follow&style=flat-square&color=000&logo=github" alt="GitHub Followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalsahu8818&show_icons=true&locale=en&layout=compact" alt="pranjalsahu8818" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranjalsahu8818&label=Profile%20Views&color=0e75b6&style=flat-square" alt="pranjalsahu8818" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalsahu8818&show_icons=true&locale=en" alt="pranjalsahu8818" /></p>
+---
 
+### 👨‍💻 About Me
+
+I am a **Full-Stack Developer** passionate about building scalable, production-ready applications that bridge the gap between **Machine Learning** and **Web Technologies**. I focus on writing clean, maintainable code and optimizing system architecture for high performance.
+
+- 🧠 **Expertise:** Scalable Backends (FastAPI/Node), Modern Frontends (Next.js), and ML Integration.
+- ⚙️ **Workflow:** Strong believer in CI/CD, Containerization (Docker), and Data-driven UI.
+- 👯 **Collaboration:** Open to contributing to Backend-heavy systems or AI-integrated SaaS.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 [Disease Prediction System](https://github.com/pranjalsahu8818) 
+*An ML-Powered Full-Stack Health Solution*
+- **The Tech:** Next.js 14, FastAPI, PostgreSQL, Scikit-Learn, Docker.
+- **The Impact:** Implemented **XGBoost** for high-accuracy diagnosis predictions.
+- **Features:** JWT-secured auth, real-time analytics with Chart.js, and automated PDF medical reporting via Redis-backed workers.
+
+#### 🧵 [Textile E-commerce Platform](https://github.com/pranjalsahu8818)
+*Full-scale Retail Architecture*
+- **The Tech:** Node.js, Express, MongoDB, EJS.
+- **The Impact:** Built a robust CMS for inventory tracking and an optimized checkout pipeline with Nodemailer integration for order lifecycle notifications.
+
+---
