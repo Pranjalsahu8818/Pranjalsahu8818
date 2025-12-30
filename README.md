@@ -41,7 +41,7 @@ I am a **Full-Stack Developer** passionate about building scalable, production-r
 
 ### 🚀 Featured Projects
 
-#### 🧠 [Disease Prediction System](https://github.com/pranjalsahu8818) 
+#### 🧠 [Disease Prediction System](https://github.com/Pranjalsahu8818/healthpredict-website)
 *An ML-Powered Full-Stack Health Solution*
 - **The Tech:** Next.js 14, FastAPI, PostgreSQL, Scikit-Learn, Docker.
 - **The Impact:** Implemented **XGBoost** for high-accuracy diagnosis predictions.
